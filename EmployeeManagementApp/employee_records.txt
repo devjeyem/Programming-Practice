@@ -1,0 +1,4 @@
+23,Jm,Pintin,10000.0,jm,pintin1
+24,Ken,Jimeno,45000.0,ken,ken
+25,Rain,Paz,20000.0,Rain,Paz
+26,Nelson,Tejara,7500.0,nelson,nelson
